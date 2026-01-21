@@ -1,0 +1,28 @@
+[
+  {
+    "title": "API Regression Suite for Payment / Trading Platform",
+    "oneLiner": "Data-driven API regression suite aligned with CI/CD quality gates.",
+    "year": "2025",
+    "tags": ["FinTech", "API Testing", "CI/CD", "Postman"],
+    "context": "QA support for a transaction-heavy platform where reliability and release confidence are critical.",
+    "work": "Designed coverage strategy, built repeatable regression flows, and added CI checks to reduce release risk.",
+    "tools": ["Postman", "GitLab CI/CD", "SQL"],
+    "kpis": ["Reduced deployment errors by 30%", "Improved regression coverage"],
+    "repoUrl": "",
+    "demoUrl": "",
+    "caseStudyUrl": ""
+  },
+  {
+    "title": "UI Automation for Cloud Application",
+    "oneLiner": "Stable UI automation focused on critical user journeys and risk-based coverage.",
+    "year": "2024",
+    "tags": ["UI Automation", "Selenium", "Pytest", "Agile"],
+    "context": "Continuous delivery environment requiring fast feedback and reliable automation.",
+    "work": "Created maintainable test structure and reporting to speed up regression cycles and support releases.",
+    "tools": ["Selenium", "Pytest"],
+    "kpis": ["Improved testing efficiency"],
+    "repoUrl": "",
+    "demoUrl": "",
+    "caseStudyUrl": ""
+  }
+]
